@@ -1,0 +1,31 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.wrap{
+    text-align: center;
+    background: rgb(44, 44, 19);
+    padding:10px;
+}
+.wrap h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+#plus{
+    color: rgb(180, 180, 72);
+}
+#minus{
+    color: pink;
+}
+#reset{
+    color: slategray;
+}
+
+
+
+
+
